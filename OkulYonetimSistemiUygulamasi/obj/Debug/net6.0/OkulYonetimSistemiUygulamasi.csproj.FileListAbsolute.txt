@@ -1,0 +1,28 @@
+C:\Users\Umut\Desktop\OkulYonetimSistemiUygulamasi\bin\Debug\net6.0\OkulYonetimSistemiUygulamasi.exe
+C:\Users\Umut\Desktop\OkulYonetimSistemiUygulamasi\bin\Debug\net6.0\OkulYonetimSistemiUygulamasi.deps.json
+C:\Users\Umut\Desktop\OkulYonetimSistemiUygulamasi\bin\Debug\net6.0\OkulYonetimSistemiUygulamasi.runtimeconfig.json
+C:\Users\Umut\Desktop\OkulYonetimSistemiUygulamasi\bin\Debug\net6.0\OkulYonetimSistemiUygulamasi.dll
+C:\Users\Umut\Desktop\OkulYonetimSistemiUygulamasi\bin\Debug\net6.0\OkulYonetimSistemiUygulamasi.pdb
+C:\Users\Umut\Desktop\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\OkulYonetimSistemiUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umut\Desktop\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\OkulYonetimSistemiUygulamasi.AssemblyInfoInputs.cache
+C:\Users\Umut\Desktop\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\OkulYonetimSistemiUygulamasi.AssemblyInfo.cs
+C:\Users\Umut\Desktop\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\OkulYonetimSistemiUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Umut\Desktop\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\OkulYonetimSistemiUygulamasi.dll
+C:\Users\Umut\Desktop\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\refint\OkulYonetimSistemiUygulamasi.dll
+C:\Users\Umut\Desktop\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\OkulYonetimSistemiUygulamasi.pdb
+C:\Users\Umut\Desktop\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\OkulYonetimSistemiUygulamasi.genruntimeconfig.cache
+C:\Users\Umut\Desktop\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\ref\OkulYonetimSistemiUygulamasi.dll
+D:\YAZILIM\Yeni klasör (2)\OkulYonetimSistemiUygulamasi\bin\Debug\net6.0\OkulYonetimSistemiUygulamasi.exe
+D:\YAZILIM\Yeni klasör (2)\OkulYonetimSistemiUygulamasi\bin\Debug\net6.0\OkulYonetimSistemiUygulamasi.deps.json
+D:\YAZILIM\Yeni klasör (2)\OkulYonetimSistemiUygulamasi\bin\Debug\net6.0\OkulYonetimSistemiUygulamasi.runtimeconfig.json
+D:\YAZILIM\Yeni klasör (2)\OkulYonetimSistemiUygulamasi\bin\Debug\net6.0\OkulYonetimSistemiUygulamasi.dll
+D:\YAZILIM\Yeni klasör (2)\OkulYonetimSistemiUygulamasi\bin\Debug\net6.0\OkulYonetimSistemiUygulamasi.pdb
+D:\YAZILIM\Yeni klasör (2)\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\OkulYonetimSistemiUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\YAZILIM\Yeni klasör (2)\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\OkulYonetimSistemiUygulamasi.AssemblyInfoInputs.cache
+D:\YAZILIM\Yeni klasör (2)\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\OkulYonetimSistemiUygulamasi.AssemblyInfo.cs
+D:\YAZILIM\Yeni klasör (2)\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\OkulYonetimSistemiUygulamasi.csproj.CoreCompileInputs.cache
+D:\YAZILIM\Yeni klasör (2)\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\OkulYonetimSistemiUygulamasi.dll
+D:\YAZILIM\Yeni klasör (2)\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\refint\OkulYonetimSistemiUygulamasi.dll
+D:\YAZILIM\Yeni klasör (2)\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\OkulYonetimSistemiUygulamasi.pdb
+D:\YAZILIM\Yeni klasör (2)\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\OkulYonetimSistemiUygulamasi.genruntimeconfig.cache
+D:\YAZILIM\Yeni klasör (2)\OkulYonetimSistemiUygulamasi\obj\Debug\net6.0\ref\OkulYonetimSistemiUygulamasi.dll
