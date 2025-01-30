@@ -1,0 +1,43 @@
+C:\Users\alike\Downloads\drive-download-20231011T150812Z-001\Görev 5\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\OtoGaleriProjesi.exe
+C:\Users\alike\Downloads\drive-download-20231011T150812Z-001\Görev 5\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\OtoGaleriProjesi.deps.json
+C:\Users\alike\Downloads\drive-download-20231011T150812Z-001\Görev 5\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\OtoGaleriProjesi.runtimeconfig.json
+C:\Users\alike\Downloads\drive-download-20231011T150812Z-001\Görev 5\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\OtoGaleriProjesi.dll
+C:\Users\alike\Downloads\drive-download-20231011T150812Z-001\Görev 5\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\OtoGaleriProjesi.pdb
+C:\Users\alike\Downloads\drive-download-20231011T150812Z-001\Görev 5\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.csproj.AssemblyReference.cache
+C:\Users\alike\Downloads\drive-download-20231011T150812Z-001\Görev 5\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alike\Downloads\drive-download-20231011T150812Z-001\Görev 5\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.AssemblyInfoInputs.cache
+C:\Users\alike\Downloads\drive-download-20231011T150812Z-001\Görev 5\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.AssemblyInfo.cs
+C:\Users\alike\Downloads\drive-download-20231011T150812Z-001\Görev 5\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.csproj.CoreCompileInputs.cache
+C:\Users\alike\Downloads\drive-download-20231011T150812Z-001\Görev 5\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.dll
+C:\Users\alike\Downloads\drive-download-20231011T150812Z-001\Görev 5\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\refint\OtoGaleriProjesi.dll
+C:\Users\alike\Downloads\drive-download-20231011T150812Z-001\Görev 5\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.pdb
+C:\Users\alike\Downloads\drive-download-20231011T150812Z-001\Görev 5\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.genruntimeconfig.cache
+C:\Users\alike\Downloads\drive-download-20231011T150812Z-001\Görev 5\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\ref\OtoGaleriProjesi.dll
+C:\Users\Umut\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\OtoGaleriProjesi.exe
+C:\Users\Umut\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\OtoGaleriProjesi.deps.json
+C:\Users\Umut\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\OtoGaleriProjesi.runtimeconfig.json
+C:\Users\Umut\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\OtoGaleriProjesi.dll
+C:\Users\Umut\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\OtoGaleriProjesi.pdb
+C:\Users\Umut\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umut\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.AssemblyInfoInputs.cache
+C:\Users\Umut\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.AssemblyInfo.cs
+C:\Users\Umut\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Umut\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.dll
+C:\Users\Umut\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\refint\OtoGaleriProjesi.dll
+C:\Users\Umut\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.pdb
+C:\Users\Umut\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.genruntimeconfig.cache
+C:\Users\Umut\Desktop\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\ref\OtoGaleriProjesi.dll
+D:\YAZILIM\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\OtoGaleriProjesi.exe
+D:\YAZILIM\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\OtoGaleriProjesi.deps.json
+D:\YAZILIM\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\OtoGaleriProjesi.runtimeconfig.json
+D:\YAZILIM\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\OtoGaleriProjesi.dll
+D:\YAZILIM\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\bin\Debug\net6.0\OtoGaleriProjesi.pdb
+D:\YAZILIM\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\YAZILIM\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.AssemblyInfoInputs.cache
+D:\YAZILIM\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.AssemblyInfo.cs
+D:\YAZILIM\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.csproj.CoreCompileInputs.cache
+D:\YAZILIM\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.dll
+D:\YAZILIM\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\refint\OtoGaleriProjesi.dll
+D:\YAZILIM\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.pdb
+D:\YAZILIM\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\OtoGaleriProjesi.genruntimeconfig.cache
+D:\YAZILIM\OtoGaleriUygulaması\OtoGaleriUygulaması\OtoGaleriProjesi\OtoGaleriProjesi\obj\Debug\net6.0\ref\OtoGaleriProjesi.dll
